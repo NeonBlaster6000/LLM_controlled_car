@@ -1,0 +1,8 @@
+{
+  "movements": {
+    "directions": ["forward", "reverse", "left", "right", "stop"],
+    "speed": ["slow", "medium", "fast","stop"],
+    "duration_ms": { "min": 1, "max": 1000 }
+  }
+}
+

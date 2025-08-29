@@ -1,0 +1,23 @@
+{
+  "Robot_Actions": {
+    "action_1": {
+      "movements": [
+        {
+          "direction": "forward",
+          "speed": "medium",
+          "duration_ms": 2000
+        },
+        {
+          "direction": "left",
+          "speed": "slow",
+          "duration_ms": 3000
+        },
+        {
+          "direction": "reverse",
+          "speed": "fast",
+          "duration_ms": 1500
+        }
+      ]
+    }
+  }
+}
